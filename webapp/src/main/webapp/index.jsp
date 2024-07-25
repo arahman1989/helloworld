@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>PIIT User Registration - Test Code</h1>
+    <h1>PIIT User Registration - Test Code deploying</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you, Keep Happy Learning </h1>
+   <h1> Thank you, Keep Happy Learning Everybody </h1>
 
   
 </form>
